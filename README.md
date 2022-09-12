@@ -6,4 +6,7 @@ This example uses the [gpiozero](https://gpiozero.readthedocs.io/en/stable/api_o
 sudo apt-get install python3-rpi.gpio
 sudo pip3 install gpiozero
 ```
+# Setup
+You should connect the servo to GPIO 4 on the Pi and use the provided power supply from S9 lab
+![servo connection](https://github.com/fervanegas/Test_360servo/blob/main/img/servo.jpg)
 
